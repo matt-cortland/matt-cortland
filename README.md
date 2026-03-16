@@ -6,7 +6,7 @@ I build AI-powered tools and share what I learn. Recovering founder focused on p
 
 ## What I'm Building
 
-Building this out — stay tuned.
+- **[The Guinndex](https://guinndex.ai)** -- I used AI to call every pub in Ireland and index the price of a pint of Guinness.
 
 ## Resources
 
