@@ -26,11 +26,6 @@ Spun out of the UK calling campaign: find the nearest pub showing your match.
 Real-time fuel prices across 170,000+ stations in all 50 states, blending EIA data back to 1990,
 32,000+ AI phone calls to stations with stale prices, and crowdsourced pump-photo vision extraction.
 
-## Resources
-
-**[Prompts and resources](https://github.com/matt-cortland/resources)**, reusable prompts for working
-with Claude.
-
 ## Elsewhere
 
 The Guinndex was featured in a Stripe keynote, and discussed by Stripe co-founder John Collison and
