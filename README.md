@@ -1,12 +1,14 @@
 # Hey, I'm Matt 👋
 
-I build AI-powered economic research instruments: systems that pair language models, voice and vision
-AI, and government and registry APIs to measure things that were previously too expensive or too slow
-to count. Then I publish what they find.
+I'm an AI engineer and AI safety and economic researcher based in London. I run [Prime Directive AI](https://primedirective.ai), where I build public research indices (mostly with AI voice agents, vision models and a lot of government APIs) and help clients put AI systems to work.
 
-I run [Prime Directive AI](https://primedirective.ai), an independent AI research and engineering
-studio in London. Before that I co-founded The Cauldron, an immersive entertainment company that grew
-from a Kickstarter to nearly a million guests across three countries.
+A big focus for me lately is AI safety. I did BlueDot Impact's AGI Strategy course, I'm partway through their Frontier AI Governance one, and I'm working on AI safety field building, getting more people and organizations working on it.
+
+I've also got a strong background in strategic comms and PR. Before co-founding The Cauldron (an immersive entertainment company that grew from a Kickstarter to almost a million guests across three countries, with an incredible team), I ran communications at PageFair, where our Adblock Reports were cited in Mary Meeker's Internet Trends Report. At The Cauldron I'm a named inventor on the patents behind our interactive magic wands, and I was named to the [Gaingels 100](https://gaingels.com/matthew-cortland/) in 2023. These days I consult with private clients on project-based work, using what I know as an AI engineer and a career of accumulated experiences across sectors and starting, scaling, and leading my own team.
+
+A project I'm really proud of is [The Guinndex](https://guinndex.ai), which apparently people around the world really liked too ([Fortune](https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/) and [Tech.eu](https://tech.eu/2026/03/20/meet-rachel-the-ai-agent-that-phoned-3000-pubs-to-price-a-pint/) both wrote it up). More on it, and the other indices, below.
+
+Fun fact: Business Insider once put me on a [top 100 list](https://www.businessinsider.com/food-100-coolest-people-in-food-and-drink-2019-1) with George Clooney and Jiro Ono, which I kind of love.
 
 ## Indices
 
